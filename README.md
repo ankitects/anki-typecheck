@@ -6,5 +6,5 @@ set up a full development environment.
 For more detailed license info and the full source tree, please see
 https://github.com/ankitects/anki
 
-To install these files, clone the tree and then run pip install on the anki
+To install these files, clone the tree and then run pip3 install on the anki
 and aqt .whl file matching the Anki version you wish to target.
